@@ -27,3 +27,6 @@ dist-ssr
 # Lokalne, nie należą do repo
 .claude
 ds_unity
+.vercel
+.env*
+!.env.example
